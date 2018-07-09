@@ -17,5 +17,3 @@ mydriver.find_element_by_xpath(xpaths['EmailTxtBox']).send_keys(Email)
 mydriver.find_element_by_xpath(xpaths['passwordTxtBox']).clear()
 mydriver.find_element_by_xpath(xpaths['passwordTxtBox']).send_keys(password)
 mydriver.find_element_by_xpath(xpaths['submitButton']).click()
-
-mydriver.quit()

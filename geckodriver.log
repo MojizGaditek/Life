@@ -81,3 +81,300 @@ Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openv
 [GPU 7972
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1531125200606	geckodriver	INFO	geckodriver 0.21.0
+1531125200697	geckodriver	INFO	Listening on 127.0.0.1:54485
+1531125203780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.cZJfcrTCZKYI"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531125212136	Marionette	INFO	Listening on port 54502
+1531125213125	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Parent 14044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiucm/src/chhrome/common/ipc_channelrome/c_win.cc, line 346o
+mmon/ipc_channel_win.cc, line 346
+[Child 10700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Chiel/dcommon/ipc_channel_w 13980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13980, Chrome_ChildThread] WARNIN[Parent 14044, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1828
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531125259911	geckodriver	INFO	geckodriver 0.21.0
+1531125259922	geckodriver	INFO	Listening on 127.0.0.1:54613
+1531125263011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.pCMUrqtqjAVM"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531125266831	Marionette	INFO	Listening on port 54625
+1531125267025	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 417
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531125322234	geckodriver	INFO	geckodriver 0.21.0
+1531125322245	geckodriver	INFO	Listening on 127.0.0.1:54731
+1531125325268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.bPHW7h3bknB5"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531125328731	Marionette	INFO	Listening on port 54743
+1531125329611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/assets/plugin/bootstrap/js/bootstrap.min.js, line 11: NS_ERROR_NOT_INITIALIZED: 
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi[Parent 7992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11828, Chrome_ChildThread] WARNING: pipe error: 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11[Parent 7992, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531125648236	geckodriver	INFO	geckodriver 0.21.0
+1531125648264	geckodriver	INFO	Listening on 127.0.0.1:55287
+1531125651258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.nkDlWiKhRYRr"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531125655769	Marionette	INFO	Listening on port 55299
+1531125656276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/assets/plugin/bootstrap/js/bootstrap.min.js, line 11: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/assets/js/jquery.form-validator.min.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/login, line 136: ReferenceError: $ is not defined
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 2080: TypeError: $(...).jscroll is not a function
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/assets/js/jquery.min.js, line 2: TypeError: a is undefined
+[Child 13180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 7912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531140340231	geckodriver	INFO	geckodriver 0.21.0
+1531140340262	geckodriver	INFO	Listening on 127.0.0.1:54416
+1531140343650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.DEiwFEiQ4GKB"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531140351633	Marionette	INFO	Listening on port 54434
+1531140352478	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 13928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x450015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Child 3328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 14
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.Fqk5JwrlCGaS"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Failed to connect GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_NO_DEVICE
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry[GFX1-]: Could not get  a DXGI adapterf
+rUnable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+om C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1531141812962	Marionette	INFO	Listening on port 56977
+[Child 7160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7160, Chro1531141813370	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Could not get a DXGI adapter
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 3432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/suild/src/rc/chrome/cipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ommon/ip[Child 7816, Chrome_ChildThread] WARNINGc_channel_win.cc, line 346
+[Child 10740,1531142078928	geckodriver	INFO	geckodriver 0.21.0
+1531142079000	geckodriver	INFO	Listening on 127.0.0.1:57513
+1531142082016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.hWcTOC27nnWT"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531142085964	Marionette	INFO	Listening on port 57530
+1531142086533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://devlife.gaditek-hrms.sg.plesk-server.com/assets/js/jquery.min.js, line 2: TypeError: a is undefined
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Child 15012, Chrome_ChildThread[]Parent 10120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Child 6452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6[Parent 10120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531142185793	geckodriver	INFO	geckodriver 0.21.0
+1531142185807	geckodriver	INFO	Listening on 127.0.0.1:57747
+1531142188832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.2wkBoeUWn8Wl"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531142192409	Marionette	INFO	Listening on port 57759
+1531142192683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode142"
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode141"
+console.error: "Got an addition of an actor we didn't know about: server1.conn1.child1/domnode245"
+console.error: "Got an addition of an actor we didn't know about: server1.conn1.child1/domnode246"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode246"
+console.error: "Got a removal of an actor we didn't know about: server1.conn1.child1/domnode245"
+console.error: "Got an addition of an actor we didn't know about: server1.conn1.child1/domnode259"
+console.error: "Got an addition of an actor we didn't know about: server1.conn1.child1/domnode260"
+[[Parent 6652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1531142415050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Te
+###!!! [Child][MessageChannel::SUnable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531142419240	Marionette	INFO	Listening on port 58201
+1531142419701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 1058: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 1058: SyntaxError: 09 is not a legal ECMA-262 octal constant
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531142532582	geckodriver	INFO	geckodriver 0.21.0
+1531142532596	geckodriver	INFO	Listening on 127.0.0.1:58446
+1531142535633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.k4K2dkpqPfqV"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531142539011	Marionette	INFO	Listening on port 58458
+1531142539751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 1066: SyntaxError: 09 is not a legal ECMA-262 octal constant
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6596, Chrome_ChildThreadUnable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531143104580	geckodriver	INFO	geckodriver 0.21.0
+1531143104595	geckodriver	INFO	Listening on 127.0.0.1:59433
+1531143107600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.J2fld3OhgL0a"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531143111482	Marionette	INFO	Listening on port 59445
+1531143112254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1328: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/newsfeed, line 1364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/menu, line 1956: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 24: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript warning: http://devlife.gaditek-hrms.sg.plesk-server.com/lunch/history, line 1074: SyntaxError: 09 is not a legal ECMA-262 octal constant
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15536, Chrome_C[Parent 15348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
