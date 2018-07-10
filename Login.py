@@ -1,19 +1,22 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
+import unittest
 
-url = "http://devlife.gaditek-hrms.sg.plesk-server.com/"
-Email = "mojiz.mehdi@gaditek.com"
-password = "mojizmehdi1"
+
+class Myloginclass(unittest.TestCase):
+    @classmethod
+    def test_TC_1_login_page(cls):
+        cls.driver = webdriver.Firefox()
+        cls.driver.get("http://devlife.gaditek-hrms.sg.plesk-server.com/")
+        cls.driver.find_element_by_xpath("//*[@id='employee_id']").send_keys("mojiz.mehdi@gaditek.com")
+        cls.driver.find_element_by_xpath("//*[@id='password']").send_keys("mojizmehdi1")
+        cls.driver.find_element_by_xpath("//*[@id='emp_login']").click()
 
 
-xpaths = {'EmailTxtBox': "//*[@id='employee_id']",
-          'passwordTxtBox': "//*[@id='password']",
-          'submitButton':   "//*[@id='emp_login']"}
+if __name__ == '__main__':
+    unittest.main(failfast=True, exit=False)
 
-mydriver = webdriver.Firefox()
-mydriver.get(url)
-
-mydriver.find_element_by_xpath(xpaths['EmailTxtBox']).clear()
-mydriver.find_element_by_xpath(xpaths['EmailTxtBox']).send_keys(Email)
-mydriver.find_element_by_xpath(xpaths['passwordTxtBox']).clear()
-mydriver.find_element_by_xpath(xpaths['passwordTxtBox']).send_keys(password)
-mydriver.find_element_by_xpath(xpaths['submitButton']).click()
