@@ -378,3 +378,285 @@ Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openv
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1531213862164	geckodriver	INFO	geckodriver 0.21.0
+1531213862200	geckodriver	INFO	Listening on 127.0.0.1:60086
+1531213865231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.yvePsFknwNIu"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531213869981	Marionette	INFO	Listening on port 60096
+1531213870746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0001,name=PRemoteSpellcheckEngine::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 66
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531215140829	Marionette	INFO	Listening on port 60608
+1531215141078	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[Parent 14256, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 14256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531215226900	Marionette	INFO	Listening on port 60791
+1531215227527	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4912, Chrome_ChildThrea1531215275176	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 10136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14548, Chrome_ChildThread] WARNING: pipe error:*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531215532074	geckodriver	INFO	geckodriver 0.21.0
+1531215532088	geckodriver	INFO	Listening on 127.0.0.1:61357
+1531215535101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.i3YIs2Fopgri"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531215539656	Marionette	INFO	Listening on port 61369
+1531215540087	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel[_Cwin.cc, line 346
+hild 10916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10916, Ch[Parent 13076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8316, Chrome_ChildThread] WARNING: pipe error: [GPU 145
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531215967412	geckodriver	INFO	geckodriver 0.21.0
+1531215967422	geckodriver	INFO	Listening on 127.0.0.1:62043
+1531215970428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.YpjHFIUg12ov"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531215974601	Marionette	INFO	Listening on port 62055
+1531215974805	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17092, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 17092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531221314481	geckodriver	INFO	geckodriver 0.21.0
+1531221314493	geckodriver	INFO	Listening on 127.0.0.1:54323
+1531221317531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.iuSzVGARcsKl"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531221325564	Marionette	INFO	Listening on port 54335
+1531221325778	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16024, Chr[Parent 5196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531222147873	geckodriver	INFO	geckodriver 0.21.0
+1531222147885	geckodriver	INFO	Listening on 127.0.0.1:55632
+1531222150907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.cLmlNmmjl7eH"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531222158094	Marionette	INFO	Listening on port 55648
+1531222159761	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+[Parent 17504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[GPU 300
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531223248262	geckodriver	INFO	geckodriver 0.21.0
+1531223248277	geckodriver	INFO	Listening on 127.0.0.1:57332
+1531223251318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.SRoNJfZUxkeV"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531223255676	Marionette	INFO	Listening on port 57346
+1531223255777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+[Parent 17708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531231764298	geckodriver	INFO	geckodriver 0.21.0
+1531231764310	geckodriver	INFO	Listening on 127.0.0.1:56919
+1531231768702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.Lpjway5vRUX2"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from Unable toC:\Users\Ga read VR Path ditek\AppData\Local\openvr\openvrpaths.vrpath
+Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531231925325	Marionette	INFO	Listening on port 56964
+[Parent 14788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14788, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 174: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_next
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531231994796	geckodriver	INFO	geckodriver 0.21.0
+1531231994816	geckodriver	INFO	Listening on 127.0.0.1:57329
+1531231998068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.RWDuYfsJ2nxI"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531232011694	Marionette	INFO	Listening on port 57344
+1531232012221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 18272, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531233823507	geckodriver	INFO	geckodriver 0.21.0
+1531233824386	geckodriver	INFO	Listening on 127.0.0.1:60584
+1531233826551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.rzvm8ba6V1OS"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531233831180	Marionette	INFO	Listening on port 60599
+1531233831493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 14724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 72[Child 1956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[Child 7292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s/ipc/chromium/src/rc/chrome/cchrome/common/ommon/ipc_cipc_channel_win.cc, line 346hannel_win.cc, line 346
+
+[Child 7292, Chrome_ChildThread] WARNING: pipe error:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531287892892	geckodriver	INFO	geckodriver 0.21.0
+1531287894348	geckodriver	INFO	Listening on 127.0.0.1:53259
+1531287896414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.zgj8Lkuvk6JJ"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531287905074	Marionette	INFO	Listening on port 53276
+1531287905602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531292452818	geckodriver	INFO	geckodriver 0.21.0
+1531292453215	geckodriver	INFO	Listening on 127.0.0.1:60219
+1531292456156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.xFPRg8Ryf9q8"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpathUnable to read VR Pats.vrpathh
+ Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11531292470482	Marionette	INFO	Listening on port 60236
+1531292470957	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+[Child 11676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11676, Chrome_ChildThread] WARNI[NCG: hild 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531292679155	Marionette	INFO	Listening on port 60658
+1531292679602	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1[C[Parent 19376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531292856404	Marionette	INFO	Listening on port 61100
+1531292857286	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+[Parent 17904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1196,[Parent 17904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14692, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531292978467	geckodriver	INFO	geckodriver 0.21.0
+1531292978477	geckodriver	INFO	Listening on 127.0.0.1:61394
+1531292981426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Gaditek\\AppData\\Local\\Temp\\rust_mozprofile.RdBuUwsUC0Ns"
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from UCn:a\bUlseers\Gaditek\AppData\Local\o pteon vrre\aodp envrpatVhR Paths.vrpath Registry from 
+C:\Users\Gaditek\AppData\Local\openvr\openvrpaths.vrpath
+1531292986238	Marionette	INFO	Listening on port 61407
+1531292986381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).
+JavaScript error: , line 0: uncaught exception: FirebaseError: Messaging: Please ensure that 'messagingSenderId' is set correctly in the options passed into firebase.initializeApp(). (messaging/bad-sender-id).

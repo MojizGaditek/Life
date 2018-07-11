@@ -8,13 +8,13 @@ import unittest
 
 
 class Myloginclass(unittest.TestCase):
-    @classmethod
-    def test_TC_1_login_page(cls):
-        cls.driver = webdriver.Firefox()
-        cls.driver.get("http://devlife.gaditek-hrms.sg.plesk-server.com/")
-        cls.driver.find_element_by_xpath("//*[@id='employee_id']").send_keys("mojiz.mehdi@gaditek.com")
-        cls.driver.find_element_by_xpath("//*[@id='password']").send_keys("mojizmehdi1")
-        cls.driver.find_element_by_xpath("//*[@id='emp_login']").click()
+    # @classmethod
+    def test_TC_1_login_page(self):
+        self.driver = webdriver.Firefox()
+        self.driver.get("http://devlife.gaditek-hrms.sg.plesk-server.com/")
+        self.driver.find_element_by_xpath("//*[@id='employee_id']").send_keys("mojiz.mehdi@gaditek.com")
+        self.driver.find_element_by_xpath("//*[@id='password']").send_keys("mojizmehdi1")
+        self.driver.find_element_by_xpath("//*[@id='emp_login']").click()
 
 
 if __name__ == '__main__':
