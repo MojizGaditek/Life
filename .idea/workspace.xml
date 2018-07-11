@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aedca12b-4deb-457b-b7ea-22213242a9a6" name="Default" comment="7/9/2018 commit. Created Lunch module script without test suite">
+    <list default="true" id="aedca12b-4deb-457b-b7ea-22213242a9a6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/BrokenLinks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Gaditek.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Gaditek.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Checkin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Checkin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ForgotPassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/ForgotPassword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lunch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lunch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +37,8 @@
       <file leaf-file-name="Lunch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lunch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="660">
+              <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -49,13 +46,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Checkin.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Checkin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Checkin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="459">
+              <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrokenLinks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BrokenLinks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,6 +91,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>test_tc_3_lunch()</find>
+      <find>Lunch</find>
+      <find>test_tc_3_lunch</find>
     </findStrings>
     <replaceStrings>
       <replace>cls.test_tc_3_lunch()</replace>
@@ -98,8 +109,9 @@
       <list>
         <option value="$PROJECT_DIR$/ForgotPassword.py" />
         <option value="$PROJECT_DIR$/Login.py" />
-        <option value="$PROJECT_DIR$/Lunch.py" />
         <option value="$PROJECT_DIR$/Checkin.py" />
+        <option value="$PROJECT_DIR$/Lunch.py" />
+        <option value="$PROJECT_DIR$/BrokenLinks.py" />
       </list>
     </option>
   </component>
@@ -130,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,7 +156,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lunch">
+  <component name="RunManager" selected="Python.BrokenLinks">
+    <configuration name="BrokenLinks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BrokenLinks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Checkin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Life" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,33 +247,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in Lunch.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Life" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lunch.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <list>
       <item itemvalue="Python.Login" />
       <item itemvalue="Python.ForgotPassword" />
-      <item itemvalue="Python tests.Unittests in Lunch.py" />
       <item itemvalue="Python.Lunch" />
       <item itemvalue="Python.Checkin" />
+      <item itemvalue="Python.BrokenLinks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BrokenLinks" />
         <item itemvalue="Python.Lunch" />
         <item itemvalue="Python.Checkin" />
         <item itemvalue="Python.Login" />
         <item itemvalue="Python.ForgotPassword" />
-        <item itemvalue="Python tests.Unittests in Lunch.py" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531215739512</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7/9/2018 commit. Created Lunch module script without test suite">
+      <created>1531293139825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531293139825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -295,15 +319,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23645681" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24032739" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014641" side_tool="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49853587" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49853587" visible="true" weight="0.32838285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990461" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -319,10 +344,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7/9/2018 commit. Created Lunch module script without test suite" />
     <MESSAGE value="Changes in login script. use class and method" />
     <MESSAGE value="Forgot Password changes - include class, method and function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forgot Password changes - include class, method and function" />
+    <MESSAGE value="7/9/2018 commit. Created Lunch module script without test suite" />
+    <MESSAGE value="7/11/2018 - Checkin module - good and bad checkin scenario" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/11/2018 - Checkin module - good and bad checkin scenario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -469,22 +495,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Checkin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="57" column="44" lean-forward="true" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lunch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state relative-caret-position="660">
+          <caret line="39" column="17" lean-forward="true" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Checkin.py">
+    <entry file="file://$PROJECT_DIR$/BrokenLinks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="306">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
